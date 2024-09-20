@@ -21,4 +21,7 @@
 
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/DmitriyPopovArh)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DmitriyPopovMos&show_icons=true&theme=merko)](https://github.com/DmitriyPopovMos/github-readme-stats)
