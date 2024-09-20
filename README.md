@@ -1,4 +1,4 @@
-![Header](https://github.com/DmitriyPopovMos/DmitriyPopovMos/blob/main/assets/maxresdefault%20(2).jpg)
+![Header](https://github.com/DmitriyPopovMos/DmitriyPopovMos/blob/main/assets/maxresdefault.jpg)
 
 ## Hello, I'm Dmitry.  
 # beginner Java Backend Developer from Moscow
