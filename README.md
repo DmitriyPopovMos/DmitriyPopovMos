@@ -1,4 +1,4 @@
-![Header](https://github.com/DmitriyPopovMos/DmitriyPopovMos/blob/main/assets/javaready.jpg)
+![Header]()
 
 ## Hello, I'm Dmitry.  
 # beginner Java Backend Developer from Moscow
@@ -52,6 +52,7 @@
 
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=80b918)
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Maven&logoColor)
