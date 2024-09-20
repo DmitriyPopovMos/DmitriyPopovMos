@@ -1,6 +1,7 @@
 ![Header](https://github.com/DmitriyPopovMos/DmitriyPopovMos/blob/main/assets/picture.png)
 
-## i'm a Junior Java Backend Developer from Moscow
+## Hello, I'm Dmitry.  
+## Junior Java Backend Developer from Moscow
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
