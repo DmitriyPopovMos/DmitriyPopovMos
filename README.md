@@ -1,7 +1,7 @@
 ![Header](https://github.com/DmitriyPopovMos/DmitriyPopovMos/blob/main/assets/scale_120.png)
 
 ## Hello, I'm Dmitry.  
-# beginner Java Backend Developer from Moscow
+# beginner Java Backend Developer
 
 
 ### About me
