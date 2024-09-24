@@ -22,6 +22,7 @@
 	- Jira
 	- Postman
 	- Docker
+	- Git
 	- PL/SQL Developer
 	- Oracle SQL Developer
 
@@ -61,6 +62,7 @@
 
 
  ### Tools
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=007ea7)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=f95738)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
