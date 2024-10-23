@@ -10,7 +10,7 @@
 	Владею средой разработки intelliJ IDEA
 	
     Базовые знания:
-	- Java __(Core, Collection)
+	- Java __(Core, Collection, Многопоточность)
 	- Spring (Boot, MVC)
 	- Maven
 	- SQL
